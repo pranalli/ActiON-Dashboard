@@ -1,3 +1,1 @@
-This is a residual repository to host files for legacy installations.
-
-The new home page for this project is http://smarttiles.click
+This is a fork of the ActiON-Dashboard project originally created by 625alex.  ALL original credit is due to him.  The newer version of his project (now called SmartTiles) is closed source.  I hope to, in time, maintain this fork separately and keep it as an open-sourced project.  
